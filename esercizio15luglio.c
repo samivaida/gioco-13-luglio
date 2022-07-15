@@ -143,5 +143,3 @@ void ins_string ()
        printf ("Inserisci la stringa:");
        scanf ("%s", &stringa);
 }
-/*professore io ho cominciato dopo e non ho visto l'ultima lezione mi sono
-arrangiato tramite la rete più grande al mondo, grazie e buona giornata*/
